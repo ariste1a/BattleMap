@@ -1,5 +1,5 @@
 #include <SFML/Graphics.hpp>
-#include "HexMap.cpp"
+#include "HexMap.h"
 
 static const int MAP_SIZE = 10; 
 static const Point ORIGIN = Point(0, 0);
